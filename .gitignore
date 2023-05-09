@@ -1,6 +1,2 @@
-*.ipynb
-checkpoints/
 log_dir_backup/
-log_dir/
 
-surrogate_lmodel_2e-2.pth
