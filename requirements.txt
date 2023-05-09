@@ -1,0 +1,8 @@
+transformers
+timm==0.4.12
+omegaconf
+einops
+opt_einsum
+tqdm
+rich
+wandb
