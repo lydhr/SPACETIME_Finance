@@ -1,2 +1,12 @@
 # SPACETIME_Finance
-My code are mainly in the Jupyter Notebooks with configs, exploration plots, and calls to the codebase of the original SPACETIME repo.
+
+###### Pre-request
+pip install -r requirements.txt
+
+
+###### Run
+- Training: python spacetime_demo_v2-training.py
+- Testing and surrogate: python spacetime_demo_v2-loadCheckpoint.py
+
+##### Visualization of intermediate results
+notebooks/
